@@ -3,9 +3,9 @@
 
 <template>
   <div class="about">
-    <h3>Frontend layer demo</h3>
+    <h3>Salemate frontend</h3>
     <h4>This code is written in Vue.js</h4>
-    
+    <h2>And there's nothing wrong in Vue.js. But it's not React.</h2>
   </div>
 </template>
 

@@ -3,7 +3,7 @@
 
 <template>
   <div class="about">
-    <h3>Just a demo ;)</h3>
+    <h3>Just Salemate, bro or sis</h3>
     
   </div>
 </template>

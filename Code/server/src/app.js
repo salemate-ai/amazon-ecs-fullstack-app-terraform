@@ -27,7 +27,7 @@ app.use('/api/docs', swagger.router)
 */
 app.get('/status', (req, res) => {
   res.send({
-    message: 'AWS Demo server is up and running!'
+    message: 'Salemate is up and running!'
   })
 })
 
@@ -88,4 +88,4 @@ app.use(function (err, req, res, next) {
   })
 
 app.listen(port)
-console.log('Server started on port ' + port)
+console.log('Salemate server started on port ' + port)
